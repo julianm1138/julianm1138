@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Reactnative, and Redux**
 
-- 💬 Ask me about **Star Wars, Dead Space, Red, Chevelle, Skillet, Starset, Adam Gontier**
+- 💬 Ask me about **Star Wars, Dead Space, Red, Chevelle, Skillet, Starset, Adam Gontier, Breaking Benjamin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
