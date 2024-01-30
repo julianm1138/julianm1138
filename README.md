@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **The Julian Method**
 
-- 🌱 I’m currently learning **React, Reactnative, and Redux**
+- 🌱 I’m currently learning **Algorithms, React, Reactnative, and Redux**
 
 - 💬 Ask me about **Star Wars, Dead Space, Red, Chevelle, Skillet, Starset, Adam Gontier, Breaking Benjamin**
 
