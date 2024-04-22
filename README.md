@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **The Julian Method**
 
-- 🌱 I’m currently learning **Spanish, algorithms, and Redux**
+- 🌱 I’m currently learning **Spanish**
 
 - 💬 Ask me about **Star Wars, Dead Space, Red, Chevelle, Skillet, Starset, Adam Gontier, Breaking Benjamin**
 
