@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-https://github.com/julianm1138/julianm1138/assets/138702063/e74b5924-979d-4646-a053-7a8aef6a584f
 
 
 <p align="left">
