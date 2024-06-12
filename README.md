@@ -8,6 +8,10 @@
 - 💬 Ask me about **Star Wars, Dead Space, Red, Chevelle, Skillet, Starset, Adam Gontier, Breaking Benjamin**
 
 <h3 align="left">Connect with me:</h3>
+
+https://github.com/julianm1138/julianm1138/assets/138702063/e74b5924-979d-4646-a053-7a8aef6a584f
+
+
 <p align="left">
 <a href="https://twitter.com/julianmart66399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="julianmart66399" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/julianthesoftwareengineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julianthesoftwareengineer/" height="30" width="40" /></a>
