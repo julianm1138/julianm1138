@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **An Amazon clone**
 
-- 🌱 I’m currently learning **Spanish**
+- 🌱 I’m currently learning **Spanish and Rust**
 
 - 💬 Ask me about **Star Wars, Dead Space, Red, Chevelle, Skillet, Starset, Adam Gontier, Breaking Benjamin**
 
