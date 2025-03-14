@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
-<h3 align="center">A passionate frontend engineer from Miami, FL, USA</h3>
+<h3 align="center">A passionate full stack engineer from Miami, FL, USA</h3>
 
 - 🔭 I’m currently working on **An Amazon clone**
 
