@@ -17,7 +17,7 @@
 <a href="https://instagram.com/julianthesingerguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="julianthesingerguy" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">DevOps Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ansible.svg" alt="ansible icon" width="40" height="40">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" alt="bash icon" width="40" height="40">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="docker icon" width="40" height="40">
